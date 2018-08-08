@@ -1,0 +1,11 @@
+<h1>Outline for Blog Content</h1>
+
+Top packages used<br />
+Facebook token/API process<br />
+Creating new columns in a data frame using calculations<br />
+Changing data type to date<br />
+Layman's explanation for Shiny<br />
+SQL joins<br />
+Favorite R functions - subset, glimpse, if / else,<br />
+Quirky R syntax - setting news column with <- ; column headers with spaces need to be pulled using `` marks, how to remove columns<br />
+Remove column function: dataset = subset(dataset, select = -c(column1_toremove, column2_toremove) )
